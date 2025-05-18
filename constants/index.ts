@@ -82,7 +82,7 @@ export const navItems = [
   ];
   
   export const avatarPlaceholderUrl =
-    "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg";
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXaPuCl6RTAl6PZC9ImLhrJLZFOX-eyb1a3w&s";
   
   export const MAX_FILE_SIZE = 50 * 1024 * 1024; // 50MB
   

@@ -3,6 +3,7 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   // 这个配置文件中设置了 images 属性，用于定义允许加载的远程图片的域名。
   images: {
+    domains: ['encrypted-tbn0.gstatic.com'],
     remotePatterns: [
       {
         protocol: "https",
